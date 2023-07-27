@@ -14,7 +14,7 @@ git clone https://github.com/DOSuzer/api_final_postit.git
 ```
 
 ```
-cd api_final_yatube
+cd api_final_postit
 ```
 
 Cоздать и активировать виртуальное окружение:
